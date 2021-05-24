@@ -1,6 +1,6 @@
 body {
     font-family: "Segoe UI", Tahoma, sans-serif;
-    background-color: mediumpurple;
+    background-color: tan;
 }
 
 main {
@@ -34,7 +34,7 @@ button {
     padding: 10px 20px;
     border-radius: 5px;
     border: none;
-    background-color:slateblue;
+    background-color:black;
     color:white;
     font-family: "Segoe UI", Tahoma, sans-serif;
     font-size: 1 em;
