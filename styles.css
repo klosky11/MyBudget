@@ -41,8 +41,8 @@ button {
     margin: 10px;
 }
 
-botton:hover {
-    color:slateblue;
+button:hover {
+    color:olivedrab;
     background-color:white;
 }
 
